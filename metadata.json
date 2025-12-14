@@ -1,0 +1,5 @@
+{
+  "name": "FocusVault",
+  "description": "A professional focus management tool designed to simulate app blocking and boost productivity. Users can lock distraction URLs for set periods (e.g., 4 hours) with AI-powered motivation to prevent unlocking.",
+  "requestFramePermissions": []
+}
